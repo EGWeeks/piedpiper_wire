@@ -1,0 +1,45 @@
+body {
+	margin-left: 1em;
+}
+h2 {
+	margin-top: .75em;
+	margin-left: .5em;
+}
+
+/****************
+  nav & paragraph
+****************/
+
+aside {
+	position: absolute;
+	border: 1px solid #5f5f5f;
+	padding-right: 7em;
+	padding-bottom: 20em;
+}
+
+aside h3 {
+	margin-left: 0.5em;
+}
+
+section {
+	margin-left: 14.5em;
+}
+
+/****************
+   	  boxes
+****************/
+
+img {
+	border: 1px solid #5f5f5f;
+	margin: 0em 4em 4em 4em;
+}
+
+.pro {
+	float: left;
+	border: 1px solid #5f5f5f;
+	margin-right: 3em;
+}
+
+.pro h3 {
+	margin-left: 1em;
+}
